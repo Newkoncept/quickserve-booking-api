@@ -1,4 +1,4 @@
-from schemas import Service, Customer, Booking
+from models import Service, Customer, Booking
 
 
 services = [
